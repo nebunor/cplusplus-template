@@ -1,2 +1,2 @@
 # cplusplus-template
-A Standard C++ makefile template for projects
+A Standard C++ Makefile template for projects
